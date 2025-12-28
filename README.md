@@ -6,14 +6,14 @@ O Elísio é um servidor de esquerda, anarquista e comunista, incentivamos a coo
 
 - **IP:** either-elements.gl.joinmc.link
 - **Versão:** 1.20.1
-- **Modpack:** [Elísio 1.0](https://drive.google.com/file/d/1EfmADkuYacdnRwPcvg0crXBcwwOOUlsa/view?usp=sharing)
+- **Modpack:** [Elísio 1.0](https://drive.google.com/drive/folders/1QBBslPCgdNYCp01pX6S1vdCfRH_5dKTx?usp=sharing)
 - **Status:** Online
   
 # Links rápidos
 
 - [Prism Launcher - "alternativo"](https://drive.google.com/drive/folders/1EgBHfdIJwmf5VyQ36q3Rq5JydvuKLOz3?usp=drive_link)
 - [Prism Launcher - original](https://prismlauncher.org/download/) 
-- [Elísio modpack](https://drive.google.com/file/d/1EfmADkuYacdnRwPcvg0crXBcwwOOUlsa/view?usp=sharing)
+- [Elísio modpack](https://drive.google.com/drive/folders/1QBBslPCgdNYCp01pX6S1vdCfRH_5dKTx?usp=sharing)
 
 # Instalação
 
@@ -37,7 +37,7 @@ Caso você tenha problemas com o Java, como o jogo não iniciar, na seção Java
 
 **Instalação do modpack Elísio**
 
-Para instalar o modpack baixe o [Elísio modpack](https://drive.google.com/file/d/1EfmADkuYacdnRwPcvg0crXBcwwOOUlsa/view?usp=sharing) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
+Para instalar o modpack baixe o [Elísio modpack](https://drive.google.com/drive/folders/1QBBslPCgdNYCp01pX6S1vdCfRH_5dKTx?usp=sharing) do Drive, não é necessário extrair, pois o Launcher utiliza o arquivo .zip inteiro.
 
 Após baixar o arquivo .zip, na tela principal do launcher, no canto superior esquerdo, clique em "adicionar instância", clique em "Import from zip, clique em "Navegar", selecione o arquivo .zip e clique em ok.
 
