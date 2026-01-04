@@ -6,7 +6,7 @@ O Elísio é um servidor de esquerda, anarquista e comunista, incentivamos a coo
 
 - **IP:** either-elements.gl.joinmc.link
 - **Versão:** 1.20.1
-- **Modpack:** [Elísio 1.0](https://drive.google.com/drive/folders/1QBBslPCgdNYCp01pX6S1vdCfRH_5dKTx?usp=sharing)
+- **Modpack:** [Elísio 1.2](https://drive.google.com/drive/folders/1QBBslPCgdNYCp01pX6S1vdCfRH_5dKTx?usp=sharing)
 - **Status:** Online
   
 # Links rápidos
